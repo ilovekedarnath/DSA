@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ilovekedarnath/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ilovekedarnath/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ilovekedarnath/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ilovekedarnath/DSA/tree/master/0078-subsets) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ilovekedarnath/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ilovekedarnath/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ilovekedarnath/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ilovekedarnath/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ilovekedarnath/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ilovekedarnath/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ilovekedarnath/DSA/tree/master/0047-permutations-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ilovekedarnath/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
