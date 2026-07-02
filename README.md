@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ilovekedarnath/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/ilovekedarnath/DSA/tree/master/1922-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/ilovekedarnath/DSA/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
