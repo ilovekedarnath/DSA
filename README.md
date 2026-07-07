@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ilovekedarnath/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ilovekedarnath/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ilovekedarnath/DSA/tree/master/0078-subsets) |
+| [0322-coin-change](https://github.com/ilovekedarnath/DSA/tree/master/0322-coin-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ilovekedarnath/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ilovekedarnath/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/ilovekedarnath/DSA/tree/master/1922-count-good-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ilovekedarnath/DSA/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ilovekedarnath/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
