@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ilovekedarnath/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ilovekedarnath/DSA/tree/master/0078-subsets) |
 | [0322-coin-change](https://github.com/ilovekedarnath/DSA/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/ilovekedarnath/DSA/tree/master/0410-split-array-largest-sum) |
 | [0735-asteroid-collision](https://github.com/ilovekedarnath/DSA/tree/master/0735-asteroid-collision) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ilovekedarnath/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ilovekedarnath/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ilovekedarnath/DSA/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ilovekedarnath/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ilovekedarnath/DSA/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/ilovekedarnath/DSA/tree/master/0410-split-array-largest-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -85,5 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ilovekedarnath/DSA/tree/master/0410-split-array-largest-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ilovekedarnath/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ilovekedarnath/DSA/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
