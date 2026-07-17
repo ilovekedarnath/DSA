@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/ilovekedarnath/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ilovekedarnath/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ilovekedarnath/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0322-coin-change](https://github.com/ilovekedarnath/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ilovekedarnath/DSA/tree/master/0410-split-array-largest-sum) |
 ## Breadth-First Search
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/ilovekedarnath/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ilovekedarnath/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ilovekedarnath/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
