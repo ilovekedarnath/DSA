@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ilovekedarnath/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ilovekedarnath/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ilovekedarnath/DSA/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ilovekedarnath/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0322-coin-change](https://github.com/ilovekedarnath/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ilovekedarnath/DSA/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/ilovekedarnath/DSA/tree/master/0475-heaters) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ilovekedarnath/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0678-valid-parenthesis-string](https://github.com/ilovekedarnath/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ilovekedarnath/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ilovekedarnath/DSA/tree/master/0844-backspace-string-compare) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ilovekedarnath/DSA/tree/master/0410-split-array-largest-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ilovekedarnath/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
