@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ilovekedarnath/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ilovekedarnath/DSA/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/ilovekedarnath/DSA/tree/master/0475-heaters) |
+| [0682-baseball-game](https://github.com/ilovekedarnath/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ilovekedarnath/DSA/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/ilovekedarnath/DSA/tree/master/0946-validate-stack-sequences) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ilovekedarnath/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ilovekedarnath/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ilovekedarnath/DSA/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/ilovekedarnath/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/ilovekedarnath/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ilovekedarnath/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ilovekedarnath/DSA/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/ilovekedarnath/DSA/tree/master/0946-validate-stack-sequences) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ilovekedarnath/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ilovekedarnath/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ilovekedarnath/DSA/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/ilovekedarnath/DSA/tree/master/0946-validate-stack-sequences) |
