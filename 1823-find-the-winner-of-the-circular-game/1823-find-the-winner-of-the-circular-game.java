@@ -1,26 +1,13 @@
 class Solution {
 
+    public int josephus(int n, int k) {
+        if (n == 1)
+            return 0;
+
+        return (josephus(n - 1, k) + k) % n;
+    }
+
     public int findTheWinner(int n, int k) {
-
-        Queue<Integer> q = new LinkedList<>();
-
-        for (int i = 1; i <= n; i++) {
-            q.offer(i);
-        }
-
-        int temp = 1;
-
-        while (q.size() > 1) {
-
-            if (temp == k) {
-                q.poll();
-                temp = 1;
-            } else {
-                q.offer(q.poll());
-                temp++;
-            }
-        }
-
-        return q.peek();
+        return josephus(n, k) + 1;
     }
 }
