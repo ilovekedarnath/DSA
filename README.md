@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/ilovekedarnath/DSA/tree/master/0946-validate-stack-sequences) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ilovekedarnath/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1598-crawler-log-folder](https://github.com/ilovekedarnath/DSA/tree/master/1598-crawler-log-folder) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ilovekedarnath/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ilovekedarnath/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ilovekedarnath/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ilovekedarnath/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ilovekedarnath/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ilovekedarnath/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/ilovekedarnath/DSA/tree/master/1598-crawler-log-folder) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ilovekedarnath/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/ilovekedarnath/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ilovekedarnath/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ilovekedarnath/DSA/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/ilovekedarnath/DSA/tree/master/0946-validate-stack-sequences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ilovekedarnath/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/ilovekedarnath/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/ilovekedarnath/DSA/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ilovekedarnath/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
