@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ilovekedarnath/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ilovekedarnath/DSA/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/ilovekedarnath/DSA/tree/master/0946-validate-stack-sequences) |
+| [1140-stone-game-ii](https://github.com/ilovekedarnath/DSA/tree/master/1140-stone-game-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ilovekedarnath/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1598-crawler-log-folder](https://github.com/ilovekedarnath/DSA/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ilovekedarnath/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ilovekedarnath/DSA/tree/master/1140-stone-game-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ilovekedarnath/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/ilovekedarnath/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ilovekedarnath/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ilovekedarnath/DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ilovekedarnath/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1140-stone-game-ii](https://github.com/ilovekedarnath/DSA/tree/master/1140-stone-game-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ilovekedarnath/DSA/tree/master/0410-split-array-largest-sum) |
+| [1140-stone-game-ii](https://github.com/ilovekedarnath/DSA/tree/master/1140-stone-game-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -158,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/ilovekedarnath/DSA/tree/master/0933-number-of-recent-calls) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ilovekedarnath/DSA/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ilovekedarnath/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ilovekedarnath/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
