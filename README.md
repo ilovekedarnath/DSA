@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ilovekedarnath/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ilovekedarnath/DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/ilovekedarnath/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/ilovekedarnath/DSA/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/ilovekedarnath/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ilovekedarnath/DSA/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/ilovekedarnath/DSA/tree/master/0475-heaters) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ilovekedarnath/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ilovekedarnath/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ilovekedarnath/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/ilovekedarnath/DSA/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
