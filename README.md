@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0475-heaters](https://github.com/ilovekedarnath/DSA/tree/master/0475-heaters) |
 | [0844-backspace-string-compare](https://github.com/ilovekedarnath/DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -204,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
