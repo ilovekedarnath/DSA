@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/0206-reverse-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ilovekedarnath/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/ilovekedarnath/DSA/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ilovekedarnath/DSA/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
