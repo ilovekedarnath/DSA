@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ilovekedarnath/DSA/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/ilovekedarnath/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ilovekedarnath/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ilovekedarnath/DSA/tree/master/0040-combination-sum-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ilovekedarnath/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/ilovekedarnath/DSA/tree/master/0047-permutations-ii) |
 | [0475-heaters](https://github.com/ilovekedarnath/DSA/tree/master/0475-heaters) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ilovekedarnath/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ilovekedarnath/DSA/tree/master/0015-3sum) |
 | [0234-palindrome-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/0234-palindrome-linked-list) |
 | [0475-heaters](https://github.com/ilovekedarnath/DSA/tree/master/0475-heaters) |
 | [0844-backspace-string-compare](https://github.com/ilovekedarnath/DSA/tree/master/0844-backspace-string-compare) |
