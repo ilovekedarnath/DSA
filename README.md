@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/ilovekedarnath/DSA/tree/master/0164-maximum-gap) |
 | [0228-summary-ranges](https://github.com/ilovekedarnath/DSA/tree/master/0228-summary-ranges) |
+| [0455-assign-cookies](https://github.com/ilovekedarnath/DSA/tree/master/0455-assign-cookies) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ilovekedarnath/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ilovekedarnath/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ilovekedarnath/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/ilovekedarnath/DSA/tree/master/0455-assign-cookies) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ilovekedarnath/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/ilovekedarnath/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ilovekedarnath/DSA/tree/master/0164-maximum-gap) |
+| [0455-assign-cookies](https://github.com/ilovekedarnath/DSA/tree/master/0455-assign-cookies) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ilovekedarnath/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ilovekedarnath/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/ilovekedarnath/DSA/tree/master/2418-sort-the-people) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/ilovekedarnath/DSA/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/ilovekedarnath/DSA/tree/master/0455-assign-cookies) |
 | [2540-minimum-common-value](https://github.com/ilovekedarnath/DSA/tree/master/2540-minimum-common-value) |
 ## Heap (Priority Queue)
 |  |
@@ -88,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ilovekedarnath/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ilovekedarnath/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
