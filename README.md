@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ilovekedarnath/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ilovekedarnath/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ilovekedarnath/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2540-minimum-common-value](https://github.com/ilovekedarnath/DSA/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ilovekedarnath/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ilovekedarnath/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2540-minimum-common-value](https://github.com/ilovekedarnath/DSA/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2540-minimum-common-value](https://github.com/ilovekedarnath/DSA/tree/master/2540-minimum-common-value) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ilovekedarnath/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
@@ -69,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/ilovekedarnath/DSA/tree/master/0443-string-compression) |
+| [2540-minimum-common-value](https://github.com/ilovekedarnath/DSA/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
