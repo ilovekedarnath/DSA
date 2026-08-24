@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ilovekedarnath/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ilovekedarnath/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ilovekedarnath/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2418-sort-the-people](https://github.com/ilovekedarnath/DSA/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ilovekedarnath/DSA/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/ilovekedarnath/DSA/tree/master/0164-maximum-gap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ilovekedarnath/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ilovekedarnath/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/ilovekedarnath/DSA/tree/master/2418-sort-the-people) |
 ## Backtracking
 |  |
 | ------- |
@@ -51,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2418-sort-the-people](https://github.com/ilovekedarnath/DSA/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ilovekedarnath/DSA/tree/master/2540-minimum-common-value) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ilovekedarnath/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/ilovekedarnath/DSA/tree/master/0443-string-compression) |
+| [2418-sort-the-people](https://github.com/ilovekedarnath/DSA/tree/master/2418-sort-the-people) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ilovekedarnath/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/ilovekedarnath/DSA/tree/master/3163-string-compression-iii) |
 ## Bucket Sort
