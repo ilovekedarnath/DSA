@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/ilovekedarnath/DSA/tree/master/0164-maximum-gap) |
 | [0228-summary-ranges](https://github.com/ilovekedarnath/DSA/tree/master/0228-summary-ranges) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ilovekedarnath/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ilovekedarnath/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/ilovekedarnath/DSA/tree/master/0164-maximum-gap) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ilovekedarnath/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Backtracking
 |  |
@@ -48,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ilovekedarnath/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ilovekedarnath/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ilovekedarnath/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ilovekedarnath/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
