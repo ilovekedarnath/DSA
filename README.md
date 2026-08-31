@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ilovekedarnath/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/ilovekedarnath/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ilovekedarnath/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ilovekedarnath/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ilovekedarnath/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ilovekedarnath/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Depth-First Search
