@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ilovekedarnath/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0164-maximum-gap](https://github.com/ilovekedarnath/DSA/tree/master/0164-maximum-gap) |
 | [0228-summary-ranges](https://github.com/ilovekedarnath/DSA/tree/master/0228-summary-ranges) |
 | [0455-assign-cookies](https://github.com/ilovekedarnath/DSA/tree/master/0455-assign-cookies) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ilovekedarnath/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ilovekedarnath/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ilovekedarnath/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ilovekedarnath/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ilovekedarnath/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/ilovekedarnath/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
