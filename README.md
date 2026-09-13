@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ilovekedarnath/DSA/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/ilovekedarnath/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0263-ugly-number](https://github.com/ilovekedarnath/DSA/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/ilovekedarnath/DSA/tree/master/0415-add-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ilovekedarnath/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/ilovekedarnath/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
