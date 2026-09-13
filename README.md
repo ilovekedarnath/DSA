@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ilovekedarnath/DSA/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/ilovekedarnath/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/ilovekedarnath/DSA/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/ilovekedarnath/DSA/tree/master/0415-add-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ilovekedarnath/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/ilovekedarnath/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ilovekedarnath/DSA/tree/master/0115-distinct-subsequences) |
+| [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/ilovekedarnath/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ilovekedarnath/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ilovekedarnath/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
 | [2418-sort-the-people](https://github.com/ilovekedarnath/DSA/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ilovekedarnath/DSA/tree/master/2540-minimum-common-value) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ilovekedarnath/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ilovekedarnath/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
