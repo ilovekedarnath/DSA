@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ilovekedarnath/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ilovekedarnath/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ilovekedarnath/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ilovekedarnath/DSA/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ilovekedarnath/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ilovekedarnath/DSA/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/ilovekedarnath/DSA/tree/master/0415-add-strings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
