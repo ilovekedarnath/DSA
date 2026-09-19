@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ilovekedarnath/DSA/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/ilovekedarnath/DSA/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/ilovekedarnath/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/ilovekedarnath/DSA/tree/master/0263-ugly-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ilovekedarnath/DSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ilovekedarnath/DSA/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/ilovekedarnath/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ilovekedarnath/DSA/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/ilovekedarnath/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ilovekedarnath/DSA/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/ilovekedarnath/DSA/tree/master/0115-distinct-subsequences) |
