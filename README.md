@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ilovekedarnath/DSA/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/ilovekedarnath/DSA/tree/master/0228-summary-ranges) |
 | [0455-assign-cookies](https://github.com/ilovekedarnath/DSA/tree/master/0455-assign-cookies) |
+| [0746-min-cost-climbing-stairs](https://github.com/ilovekedarnath/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ilovekedarnath/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ilovekedarnath/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ilovekedarnath/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ilovekedarnath/DSA/tree/master/0115-distinct-subsequences) |
 | [0213-house-robber-ii](https://github.com/ilovekedarnath/DSA/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/ilovekedarnath/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/ilovekedarnath/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ilovekedarnath/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
