@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ilovekedarnath/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/ilovekedarnath/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ilovekedarnath/DSA/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/ilovekedarnath/DSA/tree/master/0063-unique-paths-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ilovekedarnath/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/ilovekedarnath/DSA/tree/master/0164-maximum-gap) |
 | [0213-house-robber-ii](https://github.com/ilovekedarnath/DSA/tree/master/0213-house-robber-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ilovekedarnath/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ilovekedarnath/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ilovekedarnath/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ilovekedarnath/DSA/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/ilovekedarnath/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ilovekedarnath/DSA/tree/master/0115-distinct-subsequences) |
 | [0213-house-robber-ii](https://github.com/ilovekedarnath/DSA/tree/master/0213-house-robber-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ilovekedarnath/DSA/tree/master/0063-unique-paths-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ilovekedarnath/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quicksort
 |  |
