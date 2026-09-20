@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/ilovekedarnath/DSA/tree/master/2418-sort-the-people) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ilovekedarnath/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/ilovekedarnath/DSA/tree/master/3163-string-compression-iii) |
+| [3498-reverse-degree-of-a-string](https://github.com/ilovekedarnath/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ilovekedarnath/DSA/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/ilovekedarnath/DSA/tree/master/0415-add-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/ilovekedarnath/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
