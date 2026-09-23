@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ilovekedarnath/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ilovekedarnath/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ilovekedarnath/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ilovekedarnath/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ilovekedarnath/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ilovekedarnath/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ilovekedarnath/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ilovekedarnath/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ilovekedarnath/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ilovekedarnath/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ilovekedarnath/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ilovekedarnath/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/ilovekedarnath/DSA/tree/master/2540-minimum-common-value) |
 ## Math
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ilovekedarnath/DSA/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/ilovekedarnath/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ilovekedarnath/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2418-sort-the-people](https://github.com/ilovekedarnath/DSA/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ilovekedarnath/DSA/tree/master/2540-minimum-common-value) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ilovekedarnath/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ilovekedarnath/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/ilovekedarnath/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ilovekedarnath/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/ilovekedarnath/DSA/tree/master/1137-n-th-tribonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ilovekedarnath/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
