@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ilovekedarnath/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ilovekedarnath/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ilovekedarnath/DSA/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/ilovekedarnath/DSA/tree/master/0120-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ilovekedarnath/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/ilovekedarnath/DSA/tree/master/0164-maximum-gap) |
 | [0213-house-robber-ii](https://github.com/ilovekedarnath/DSA/tree/master/0213-house-robber-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ilovekedarnath/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ilovekedarnath/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ilovekedarnath/DSA/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/ilovekedarnath/DSA/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/ilovekedarnath/DSA/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/ilovekedarnath/DSA/tree/master/0746-min-cost-climbing-stairs) |
