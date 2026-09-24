@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ilovekedarnath/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ilovekedarnath/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2418-sort-the-people](https://github.com/ilovekedarnath/DSA/tree/master/2418-sort-the-people) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ilovekedarnath/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2540-minimum-common-value](https://github.com/ilovekedarnath/DSA/tree/master/2540-minimum-common-value) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ilovekedarnath/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ilovekedarnath/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ilovekedarnath/DSA/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/ilovekedarnath/DSA/tree/master/0542-01-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ilovekedarnath/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ilovekedarnath/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Quicksort
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ilovekedarnath/DSA/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/ilovekedarnath/DSA/tree/master/0415-add-strings) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ilovekedarnath/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3498-reverse-degree-of-a-string](https://github.com/ilovekedarnath/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
