@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ilovekedarnath/DSA/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ilovekedarnath/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/ilovekedarnath/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/ilovekedarnath/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/ilovekedarnath/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/ilovekedarnath/DSA/tree/master/0415-add-strings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ilovekedarnath/DSA/tree/master/0115-distinct-subsequences) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ilovekedarnath/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/ilovekedarnath/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/ilovekedarnath/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/ilovekedarnath/DSA/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/ilovekedarnath/DSA/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/ilovekedarnath/DSA/tree/master/0940-distinct-subsequences-ii) |
