@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ilovekedarnath/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/ilovekedarnath/DSA/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/ilovekedarnath/DSA/tree/master/0290-word-pattern) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ilovekedarnath/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2418-sort-the-people](https://github.com/ilovekedarnath/DSA/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ilovekedarnath/DSA/tree/master/2540-minimum-common-value) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ilovekedarnath/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ilovekedarnath/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ilovekedarnath/DSA/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/ilovekedarnath/DSA/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/ilovekedarnath/DSA/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/ilovekedarnath/DSA/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/ilovekedarnath/DSA/tree/master/0940-distinct-subsequences-ii) |
