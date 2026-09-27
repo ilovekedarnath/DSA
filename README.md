@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ilovekedarnath/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/ilovekedarnath/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ilovekedarnath/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/ilovekedarnath/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ilovekedarnath/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/ilovekedarnath/DSA/tree/master/0367-valid-perfect-square) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ilovekedarnath/DSA/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/ilovekedarnath/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ilovekedarnath/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/ilovekedarnath/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ilovekedarnath/DSA/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/ilovekedarnath/DSA/tree/master/0290-word-pattern) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ilovekedarnath/DSA/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/ilovekedarnath/DSA/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/ilovekedarnath/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ilovekedarnath/DSA/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/ilovekedarnath/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ilovekedarnath/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
