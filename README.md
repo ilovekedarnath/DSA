@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/ilovekedarnath/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ilovekedarnath/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/ilovekedarnath/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ilovekedarnath/DSA/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ilovekedarnath/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3524-find-x-value-of-array-i](https://github.com/ilovekedarnath/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ilovekedarnath/DSA/tree/master/0455-assign-cookies) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ilovekedarnath/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/ilovekedarnath/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ilovekedarnath/DSA/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 ## Sorting
 |  |
 | ------- |
