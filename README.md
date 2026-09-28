@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/ilovekedarnath/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ilovekedarnath/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ilovekedarnath/DSA/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/ilovekedarnath/DSA/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/ilovekedarnath/DSA/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
 | [0542-01-matrix](https://github.com/ilovekedarnath/DSA/tree/master/0542-01-matrix) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ilovekedarnath/DSA/tree/master/0131-palindrome-partitioning) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/ilovekedarnath/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Hash Table
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ilovekedarnath/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ilovekedarnath/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ilovekedarnath/DSA/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/ilovekedarnath/DSA/tree/master/0131-palindrome-partitioning) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ilovekedarnath/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/ilovekedarnath/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ilovekedarnath/DSA/tree/master/0171-excel-sheet-column-number) |
