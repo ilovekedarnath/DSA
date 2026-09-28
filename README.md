@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ilovekedarnath/DSA/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/ilovekedarnath/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/ilovekedarnath/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ilovekedarnath/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ilovekedarnath/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ilovekedarnath/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ilovekedarnath/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ilovekedarnath/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/ilovekedarnath/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ilovekedarnath/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ilovekedarnath/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ilovekedarnath/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ilovekedarnath/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ilovekedarnath/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ilovekedarnath/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/ilovekedarnath/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/ilovekedarnath/DSA/tree/master/1025-divisor-game) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ilovekedarnath/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/ilovekedarnath/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/ilovekedarnath/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ilovekedarnath/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/ilovekedarnath/DSA/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ilovekedarnath/DSA/tree/master/0299-bulls-and-cows) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ilovekedarnath/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ilovekedarnath/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ilovekedarnath/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2418-sort-the-people](https://github.com/ilovekedarnath/DSA/tree/master/2418-sort-the-people) |
