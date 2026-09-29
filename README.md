@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ilovekedarnath/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ilovekedarnath/DSA/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/ilovekedarnath/DSA/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/ilovekedarnath/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ilovekedarnath/DSA/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/ilovekedarnath/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ilovekedarnath/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ilovekedarnath/DSA/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ilovekedarnath/DSA/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/ilovekedarnath/DSA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/ilovekedarnath/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ilovekedarnath/DSA/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/ilovekedarnath/DSA/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/ilovekedarnath/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ilovekedarnath/DSA/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/ilovekedarnath/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ilovekedarnath/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ilovekedarnath/DSA/tree/master/0415-add-strings) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ilovekedarnath/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3498-reverse-degree-of-a-string](https://github.com/ilovekedarnath/DSA/tree/master/3498-reverse-degree-of-a-string) |
