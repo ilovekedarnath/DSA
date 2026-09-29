@@ -336,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/ilovekedarnath/DSA/tree/master/1025-divisor-game) |
+## Concurrency
+|  |
+| ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/ilovekedarnath/DSA/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
