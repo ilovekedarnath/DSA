@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ilovekedarnath/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ilovekedarnath/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2418-sort-the-people](https://github.com/ilovekedarnath/DSA/tree/master/2418-sort-the-people) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ilovekedarnath/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ilovekedarnath/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/ilovekedarnath/DSA/tree/master/3163-string-compression-iii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ilovekedarnath/DSA/tree/master/3498-reverse-degree-of-a-string) |
