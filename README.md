@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ilovekedarnath/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ilovekedarnath/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2418-sort-the-people](https://github.com/ilovekedarnath/DSA/tree/master/2418-sort-the-people) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ilovekedarnath/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/ilovekedarnath/DSA/tree/master/3163-string-compression-iii) |
