@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/ilovekedarnath/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/ilovekedarnath/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ilovekedarnath/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3664-two-letter-card-game](https://github.com/ilovekedarnath/DSA/tree/master/3664-two-letter-card-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ilovekedarnath/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ilovekedarnath/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ilovekedarnath/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ilovekedarnath/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3664-two-letter-card-game](https://github.com/ilovekedarnath/DSA/tree/master/3664-two-letter-card-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ilovekedarnath/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ilovekedarnath/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ilovekedarnath/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ilovekedarnath/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3664-two-letter-card-game](https://github.com/ilovekedarnath/DSA/tree/master/3664-two-letter-card-game) |
 ## String
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ilovekedarnath/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/ilovekedarnath/DSA/tree/master/3163-string-compression-iii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ilovekedarnath/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3664-two-letter-card-game](https://github.com/ilovekedarnath/DSA/tree/master/3664-two-letter-card-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/ilovekedarnath/DSA/tree/master/0299-bulls-and-cows) |
+| [3664-two-letter-card-game](https://github.com/ilovekedarnath/DSA/tree/master/3664-two-letter-card-game) |
 ## Bracket Sequences
 |  |
 | ------- |
