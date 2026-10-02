@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ilovekedarnath/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ilovekedarnath/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ilovekedarnath/DSA/tree/master/0062-unique-paths) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/ilovekedarnath/DSA/tree/master/0131-palindrome-partitioning) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/ilovekedarnath/DSA/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Hash Table
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ilovekedarnath/DSA/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/ilovekedarnath/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ilovekedarnath/DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ilovekedarnath/DSA/tree/master/0071-simplify-path) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ilovekedarnath/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ilovekedarnath/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
